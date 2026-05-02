@@ -36,33 +36,6 @@ holaOS is an open agent computer for any digital work. It reimagines the compute
   <img src="docs/images/desktop-workspace.png" alt="holaOS desktop workspace screenshot" width="1280" />
 </p>
 
-
-
-
-
-## Table of Contents
-
-- [Quick Start](#quick-start)
-    - [What you need](#what-you-need)
-    - [One-Line Install](#one-line-install)
-- [Documentation](#documentation)
-- [Manual Install](#manual-install)
-    - [One-Line Agent Setup](#one-line-agent-setup)
-- [Contributing](#contributing)
-- [OSS Release Notes](#oss-release-notes)
-
-## Quick Start
-
-### One-Line Install
-
-For a fresh-machine bootstrap on macOS, Linux, or WSL, use the repository installer:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/holaboss-ai/holaOS/main/scripts/install.sh | bash -s -- --launch
-```
-
-You can also follow the manual path if you want to control each setup step.
-
 ## Star the Repository
 
 <p align="center">
